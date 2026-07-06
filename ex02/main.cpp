@@ -35,7 +35,7 @@ int main() {
     
     std::stack<int> s(mstack);
 
-    std::cout << "\n=== std::list Test (Birebir Ayni Olmali) ===" << std::endl;
+    std::cout << "\n=== std::list Test ===" << std::endl;
     std::list<int> mlist;
     
     mlist.push_back(5);
